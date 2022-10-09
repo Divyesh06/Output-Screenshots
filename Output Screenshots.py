@@ -9,7 +9,7 @@ print("""
 
     You can also divide your File into multiple parts and take Screenshots of Individual Parts by adding the Comment (#Take Screenshot) to indicate new separation
 
-    For more help on this, check out README.md at <Github Repository>\
+    For more help on this, check out README.md at https://github.com/Divyesh06/Output-Screenshots
 
 """
 )
