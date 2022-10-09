@@ -3,7 +3,7 @@
 A Python Script that generates beautiful screenshots of your Code Output
 
 ## Features
-* Takes beautiful screenshots powered by [Carbow.now.sh](https://carbow.now.sh)
+* Takes beautiful screenshots powered by [Carbow.now.sh](https://carbon.now.sh)
 * Handles both `print` and `input` statements effectively
 * Ability to take screenshots of multiple parts of your Python File
 * Easy-to-use Interactive Script
