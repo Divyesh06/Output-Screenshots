@@ -47,7 +47,7 @@ with open(python_file) as f:
     content = f.read()
 _print(f"""
 =====================================
-\nRunning {python_file} Now\n
+Running {python_file} Now
 =====================================
 """)
 code_blocks = content.split(splitter)
